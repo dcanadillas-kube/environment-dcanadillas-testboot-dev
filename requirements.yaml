@@ -1,0 +1,4 @@
+dependencies:
+- name: jx-app-ui
+  repository: https://charts.cloudbees.com/cjxd/cloudbees
+  version: 0.0.28
